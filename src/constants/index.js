@@ -165,7 +165,6 @@ const expCards = [
     title: "Software Engineer",
     date: "November 2023 - January 2025",
     responsibilities: [
-      "Led the development of Docker's web applications, focusing on scalability.",
       "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
       "Contributed to open-source projects that were used with the Github ecosystem.",
       "Built cross-platform mobile apps using React Native, integrating with PHP's backend services.",
