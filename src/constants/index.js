@@ -167,7 +167,10 @@ const expCards = [
     responsibilities: [
       "Led the development of Docker's web applications, focusing on scalability.",
       "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
-      "Contributed to open-source projects that were used with the Docker ecosystem.",
+      "Contributed to open-source projects that were used with the Github ecosystem.",
+      "Built cross-platform mobile apps using React Native, integrating with PHP's backend services.",
+      "Improved app performance and user experience through code optimization and testing.",
+      "Coordinated with the product team to implement features based on feedback.",
     ],
   },
   {
@@ -177,8 +180,8 @@ const expCards = [
     title: "Software Engineering Test Intern",
     date: "July 2023 - November 2023",
     responsibilities: [
-      "Built cross-platform mobile apps using React Native, integrating with PHP's backend services.",
-      "Improved app performance and user experience through code optimization and testing.",
+      "Identified and reported bugs, collaborated with developers to fix issues, and verified resolutions through regression testing.",
+      "Gained deep understanding of the product’s architecture.",
       "Coordinated with the product team to implement features based on feedback.",
     ],
   },
