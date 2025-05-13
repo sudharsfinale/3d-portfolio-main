@@ -16,14 +16,14 @@ const HeroExperience = () => {
       {/* deep blue ambient */}
       <ambientLight intensity={0.2} color="#1a1a40" />
       {/* Configure OrbitControls to disable panning and control zoom based on device type */}
-      <OrbitControls
+      {/* <OrbitControls
         enablePan={false} // Prevents panning of the scene
         enableZoom={false} // Disables zoom on tablets
         maxDistance={20} // Maximum distance for zooming out
         minDistance={5} // Minimum distance for zooming in
         minPolarAngle={Math.PI / 5} // Minimum angle for vertical rotation
         maxPolarAngle={Math.PI / 2} // Maximum angle for vertical rotation
-      />
+      /> */}
 
       <Suspense fallback={null}>
         <HeroLights />
